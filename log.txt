@@ -1,0 +1,10 @@
+Client IP address: ('127.0.0.1', 52939), Access time: Sun, 26 Apr 2026 08:07:31 GMT, Access file: /text.txt, Response type: 200 OK
+Client IP address: ('127.0.0.1', 52955), Access time: Sun, 26 Apr 2026 08:09:46 GMT, Access file: /text.txt, Response type: 200 OK
+Client IP address: ('127.0.0.1', 52958), Access time: Sun, 26 Apr 2026 08:10:53 GMT, Access file: /text.txt, Response type: 200 OK
+Client IP address: ('127.0.0.1', 52962), Access time: Sun, 26 Apr 2026 08:11:49 GMT, Access file: /text.txt, Response type: 304 Not Modified
+Client IP address: ('127.0.0.1', 52962), Access time: Sun, 26 Apr 2026 08:11:49 GMT, Access file: /text.txt, Response type: 200 OK
+Client IP address: ('127.0.0.1', 52967), Access time: Sun, 26 Apr 2026 08:12:41 GMT, Access file: /missing.txt, Response type: 404 Not Found
+Client IP address: ('127.0.0.1', 52981), Access time: Sun, 26 Apr 2026 08:13:30 GMT, Access file: /denied.txt, Response type: 403 Forbidden
+Client IP address: ('127.0.0.1', 52985), Access time: Sun, 26 Apr 2026 08:15:23 GMT, Access file: /text.txt, Response type: 200 OK
+Client IP address: ('127.0.0.1', 52985), Access time: Sun, 26 Apr 2026 08:17:42 GMT, Access file: /text.txt, Response type: 200 OK
+Client IP address: ('127.0.0.1', 53275), Access time: Sun, 26 Apr 2026 08:29:10 GMT, Access file: /1227835.jpg, Response type: 200 OK
